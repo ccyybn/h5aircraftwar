@@ -1,0 +1,21 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,hero_png,bullet_png,enemy_png,e_bullet_png,bomb_png,hero_blowup_png,description_json,bomb2_png,hero_blowup2_png,huaji_png,huaji_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{"name": "bg_jpg","type": "image","url": "assets/bg.jpg"},
+		{"name": "egret_icon_png","type": "image","url": "assets/egret_icon.png"},
+		{"name": "hero_png","type": "image","url": "assets/hero.png"},
+		{"name": "bullet_png","type": "image","url": "assets/bullet.png"},
+		{"name": "enemy_png","type": "image","url": "assets/enemy.png"},
+		{"name": "e_bullet_png","type": "image","url": "assets/e_bullet.png"},
+		{"name": "bomb_png","type": "image","url": "assets/bomb.png"},
+		{"name": "hero_blowup_png","type": "image","url": "assets/hero_blowup.png"},
+		{"name": "description_json","type": "json","url": "config/description.json"},
+        {"name": "huaji_png","type":"image","url":"assets/huaji.png"},
+		{"name": "huaji_json","type":"json","url":"assets/huaji.json"}
+	]
+}

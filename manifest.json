@@ -1,0 +1,23 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/element/Bullet.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Platform.js",
+		"bin-debug/element/Aircraft.js",
+		"bin-debug/element/Bomb.js",
+		"bin-debug/Main.js",
+		"bin-debug/element/EBullet.js",
+		"bin-debug/element/Enemy.js",
+		"bin-debug/element/Hero.js",
+		"bin-debug/helper/AircraftHelper.js",
+		"bin-debug/helper/EffectHelper.js"
+	]
+}
